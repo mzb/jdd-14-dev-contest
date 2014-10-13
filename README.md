@@ -55,7 +55,8 @@ We have also prepared bunch of failing tests to make your life easier.
 *  code!
 *  push a solution to master branch on your fork 
 *  send a short email to `allegrotech.io@allegro.pl`, with url of your fork  
-*  competition ends at **15:55, October 14'th**
+*  competition ends at **15:00, October 14'th**,
+   the winners will be announced at Allegro booth at **16:55, October 14'th****  
 
 **Jury**
 
